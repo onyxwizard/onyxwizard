@@ -1,6 +1,5 @@
 
  # J'suis AK
-<img align="left" alt="GitHub watchers" src="https://img.shields.io/github/watchers/onyxwizard/onyxwizard?color=ff0000&style=flat-square">
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=onyxwizard.visitor-badge">
 <a href="https://hits.seeyoufarm.com"><img align="left" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonyxwizard&count_bg=%23FE2222&title_bg=%23060505&icon=&icon_color=%23131313&title=Profile+visit&edge_flat=false"/></a>
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=onyxwizard&theme=chartreuse-dark&show_icons=true">
