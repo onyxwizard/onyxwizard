@@ -1,7 +1,8 @@
 
 ### J'suis AK
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=onyxwizard&&show_icons=true&title_color=Aqua&icon_color=00cc00&text_color=ff1a1a&bg_color=000000">
-<a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonyxwizard&count_bg=%2300EA3A&title_bg=%23000000&icon=&icon_color=%23FC0000&title=VISIT&edge_flat=true"/></a>
+<a href="https://hits.seeyoufarm.com"><img align="bottom" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonyxwizard&count_bg=%2300EA3A&title_bg=%23000000&icon=&icon_color=%23FC0000&title=VISIT&edge_flat=true"/></a>
+
 - 🌱 I’m currently learning CYBER security                                                                                                      
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -10,4 +11,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://goreportcard.com/badge/github.com/onyxwizard/hit-counter">
