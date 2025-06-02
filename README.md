@@ -1,6 +1,6 @@
 # J'suis AK 🚀
 
-## 💫 About Me.:
+## 💫 About Me:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=onyxwizard&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 
 - 🔭 I’m working on Python projects 🐍—from automating tasks ⚙️ to building apps 🖥️.
