@@ -1,7 +1,7 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51EBF7&background=000000&center=true&vCenter=true&width=457&height=86&lines=Hey👋🏻!+I'm+Onyx🧙‍♂️;👨🏻‍💻Developer+by+☀︎;🕵🏻Hack+by+💤!" width="100%" alt="Dynamic Typing Banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51EBF7&background=000000&center=true&vCenter=true&width=457&height=86&lines=Hey!+I'm+Onyxwizard;Developer+by+day;Hack+by+night!" width="100%"/>
 </div>
+ 
 
 <!-- # J'suis AK 🚀 -->
 
